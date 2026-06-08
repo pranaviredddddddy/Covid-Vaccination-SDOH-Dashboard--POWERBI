@@ -1,4 +1,4 @@
-Healthcare Operations Dashboard | Power BI - https://tinyurl.com/bdebzywj
+Healthcare Operations Dashboard | Power BI - https://tinyurl.com/5c9x79y4
 
 Interactive healthcare analytics dashboard developed using Power BI to visualize operational and clinical workflow metrics through healthcare-focused data visualization techniques.
 
